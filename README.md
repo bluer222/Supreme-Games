@@ -1,7 +1,7 @@
 # Supreme Games family of sites
  ![GitHub contributors](https://img.shields.io/github/contributors/supremegme/supremegme.github.io)
  ![Discord](https://img.shields.io/discord/1001151772410265661)
- ![GitHub](https://img.shields.io/github/license/supremegme/supremegme.github.io)
+ ![GitHub](https://img.shields.io/github/license/bluer222/Supreme-Games)
 
  This repository hosts the Supreme game site.
  The games are in the `sg` folder.
